@@ -21,9 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   over 3 years of experience in data analytics, epidemiology research and scientific publication.
   I am fascinated with the applications of data science in various domains such as healthcare.
   
-twitter_username: @Carlyle_95
-github_username: @arlincherian
-minimal_mistakes_skin: dark
+twitter_username: "@Carlyle_95"
+github_username: "@arlincherian"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
