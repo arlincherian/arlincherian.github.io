@@ -60,9 +60,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Arlin Cherian"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm an upcoming data scientist based in Vancouver, Canada. I am a Master of 
+  Data Science candidate at the University of British Columbia, Vancouver. I have 
+  over 3 years of experience in data analytics, epidemiology research and scientific publication.
+  I am fascinated with the applications of data science in various domains such as healthcare."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
