@@ -62,8 +62,7 @@ plugins:
 author:
   name   : "Arlin Cherian"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm an upcoming data scientist based in Vancouver, Canada. I am a Master of 
-  Data Science candidate at the University of British Columbia, Vancouver."
+  bio    : "Data Scientist | Epidemiologst "
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
