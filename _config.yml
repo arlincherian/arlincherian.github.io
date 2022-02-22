@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Arlin Cherian"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Scientist, Epidemiologst "
+  bio    : """Data Scientist| Epidemiologst"""
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
