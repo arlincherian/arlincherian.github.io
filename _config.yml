@@ -87,10 +87,10 @@ footer:
 
 
 defaults:
-  # _projects
+  # _posts
   - scope:
-      path: ""
-      type: projects
+      path: "_posts"
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -105,6 +105,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+    # _projects
+  - scope:
+      path: "_pages"
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+  
 
 publication_archive:
   type: liquid
