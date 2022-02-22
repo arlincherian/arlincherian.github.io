@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Deliveries to Women with a Previous Cesarean Delivery: Maternal and Infant Outcomes by Province/Territories, Tier of Service and Hospital, Canada, April 2013 to March 2019**  
-{\scriptsize Citation: Joseph KS, Young CB, Boutin A, **Cherian AM**, Muraca GM, Razaz N, John S, Lisonkova S. Deliveries to women with a previous cesarean delivery: Maternal and infant outcomes by province/territories, tier of service and hospital, Canada, April 2013 to March 2019. Report of the CIHR Team for Improving Perinatal Health Care Regionalization. Vancouver. July 2021.}    
+<span style="color:grey">Citation: Joseph KS, Young CB, Boutin A, **Cherian AM**, Muraca GM, Razaz N, John S, Lisonkova S. Deliveries to women with a previous cesarean delivery: Maternal and infant outcomes by province/territories, tier of service and hospital, Canada, April 2013 to March 2019. Report of the CIHR Team for Improving Perinatal Health Care Regionalization. Vancouver. July 2021.</span>.  
 [![PDF](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://med-fom-phsr-obgyn.sites.olt.ubc.ca/files/2022/01/PriorCSReportFINAL2021.pdf)  
 
 **Attempted Forceps and Attempted Vacuum Delivery: Maternal and Neonatal Trauma Rates by Province/Territories, Tier of Service and Hospital, Canada, April 2013 to March 2019**  
