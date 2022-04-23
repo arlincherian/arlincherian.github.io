@@ -33,6 +33,14 @@ feature_row:
     url: "https://www.kaggle.com/arlincherian/case-study-analysis-of-cyclistic-bike-share-data"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/dashboard.jpg
+    alt: "dashboard"
+    title: "Vancouver crime data dashboard 2021"
+    excerpt: "Created a dashboard on Vancouver crime statistics using DASH python and Heroku app."
+    url: "https://safevancity.herokuapp.com/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+    
 ---
 
 {% include feature_row %} 
